@@ -1,4 +1,4 @@
-# -ai-env-job-sprint
+# ai-env-job-sprint
 AI + Environmental Data Portfolio for 2026 Job Sprint
 
 # AI + Environmental Data Job Sprint
