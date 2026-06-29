@@ -2,7 +2,6 @@
 
 ## Purpose
 This document explains the meaning, unit, and usage of each field in the Shanghai air quality dataset.
-
 | Field Name | Meaning | Unit | Example | Notes |
 |---|---|---|---|---|
 | date | Observation date | YYYY-MM-DD | 2026-06-26 | Used for time series analysis |
